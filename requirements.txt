@@ -1,2 +1,3 @@
+IPython
 bluepy
 nbsphinx
