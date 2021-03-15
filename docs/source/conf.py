@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Motie AI Lab'
+project = 'Motie AI Lab Library'
 copyright = '2021, Xuwang Yin'
 author = 'Xuwang Yin'
 
